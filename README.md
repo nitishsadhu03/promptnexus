@@ -12,7 +12,7 @@ This is a website where users can share AI-powered prompts that can be used dire
 
 ## Live Website Link
 
-https://promptnexus-f4jvyaqbk-nitishsadhu03.vercel.app/
+https://promptnexus-eight.vercel.app/
 
 ## Screenshots
 ![Screenshot 2023-08-23 202710](https://github.com/nitishsadhu03/promptnexus/assets/120576472/3066feeb-cc69-452b-a635-e32085084979)
